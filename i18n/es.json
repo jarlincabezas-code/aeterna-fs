@@ -1,0 +1,15 @@
+{
+    "UI_BUTTON_START": "Iniciar Auditoría Forense",
+    "UI_BUTTON_EXPORT": "Exportar Evidencia Inmutable",
+    "REPORT_TITLE": "INFORME DE PERITAJE INFORMÁTICO",
+    "REPORT_SUBTITLE": "Generado por AETERNA-FS - Grado Institucional",
+    "EXPLANATION_BENFORD": "Este análisis utiliza la Ley de Benford para detectar desviaciones estadísticas que sugieren manipulación manual de datos financieros.",
+    "EXPLANATION_INTEGRITY": "La integridad de este informe está garantizada mediante un Merkle Tree y firmas HMAC-SHA3-512.",
+    "FIELD_TIMESTAMP": "Sellado de Tiempo (Timestamp)",
+    "FIELD_HASH": "Hash del Bloque (SHA-3)",
+    "FIELD_SIGNATURE": "Firma Digital (Signature)",
+    "FIELD_PAYLOAD": "Datos Extraídos (Payload)",
+    "FIELD_CUSTODY": "Cadena de Custodia (Chain of Custody)",
+    "STATUS_VERIFIED": "INTEGRIDAD VERIFICADA - SIN ALTERACIONES",
+    "STATUS_CORRUPT": "¡ADVERTENCIA! EVIDENCIA COMPROMETIDA"
+}

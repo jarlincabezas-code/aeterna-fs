@@ -1,0 +1,15 @@
+{
+    "UI_BUTTON_START": "开始数字取证审计",
+    "UI_BUTTON_EXPORT": "导出不可变证据",
+    "REPORT_TITLE": "数字取证检验报告",
+    "REPORT_SUBTITLE": "由 AETERNA-FS 生成 - 机构级",
+    "EXPLANATION_BENFORD": "本分析利用本福特定律检测财务数据中可能存在的人为操纵统计偏差。",
+    "EXPLANATION_INTEGRITY": "本报告的完整性通过默克尔树 (Merkle Tree) 和 HMAC-SHA3-512 签名得到保证。",
+    "FIELD_TIMESTAMP": "时间戳 (Timestamp)",
+    "FIELD_HASH": "区块哈希 (Block Hash - SHA-3)",
+    "FIELD_SIGNATURE": "数字签名 (Digital Signature)",
+    "FIELD_PAYLOAD": "提取数据 (Payload)",
+    "FIELD_CUSTODY": "证据链 (Chain of Custody)",
+    "STATUS_VERIFIED": "完整性已验证 - 无篡改",
+    "STATUS_CORRUPT": "警告！证据已损坏"
+}

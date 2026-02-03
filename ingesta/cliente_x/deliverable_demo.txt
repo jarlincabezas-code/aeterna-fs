@@ -1,0 +1,22 @@
+AETERNA DEMO DELIVERABLE
+-----------------------
+
+Project: Website Landing Page Design
+Client: ACME Corp
+Freelancer: John Doe
+Deliverable: Final landing page assets (HTML/CSS)
+
+Files included:
+- index.html
+- styles.css
+- assets/logo.svg
+
+Delivery notes:
+This version includes all requested revisions as of milestone 2.
+No further changes were agreed upon at the time of delivery.
+
+Delivery timestamp (UTC):
+2026-01-26T15:10:00Z
+
+Integrity notice:
+Any modification to this file after delivery invalidates its integrity.

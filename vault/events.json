@@ -1,0 +1,379 @@
+[
+  {
+    "id": "1",
+    "file": "b6cc453f-d9c4-4263-b844-bf79c5489330_Freelancer_Dispute_Evidence_Package.pdf",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMP7",
+    "timestamp": "2026-01-29T01:07:31.454282Z",
+    "hash_algorithm": "SHA3-512",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "type": "FILE_INGEST",
+    "status": "OK"
+  },
+  {
+    "id": "84e4aea2-7f5a-4804-b895-c70c17140aa4",
+    "timestamp": "2026-01-29T01:25:36.073034Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO9"
+  },
+  {
+    "id": "3",
+    "file": "84e4aea2-7f5a-4804-b895-c70c17140aa4_Freelancer_Dispute_Evidence_Package.pdf",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO9",
+    "timestamp": "2026-01-29T01:25:36.351357Z",
+    "hash_algorithm": "SHA3-512",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "type": "FILE_INGEST",
+    "status": "OK"
+  },
+  {
+    "id": "0973540f-f57d-468f-b5be-ff7c32b2993f",
+    "timestamp": "2026-01-29T01:34:08.384844Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO9"
+  },
+  {
+    "id": "5",
+    "file": "0973540f-f57d-468f-b5be-ff7c32b2993f_Freelancer_Dispute_Evidence_Package.pdf",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO9",
+    "timestamp": "2026-01-29T01:34:08.644217Z",
+    "hash_algorithm": "SHA3-512",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "type": "FILE_INGEST",
+    "status": "OK"
+  },
+  {
+    "id": "f6a6a845-3753-4a84-b219-2e855133dd35",
+    "timestamp": "2026-01-29T01:34:48.165469Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO10"
+  },
+  {
+    "id": "7",
+    "file": "f6a6a845-3753-4a84-b219-2e855133dd35_Freelancer_Dispute_Evidence_Package.pdf",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO10",
+    "timestamp": "2026-01-29T01:34:48.444402Z",
+    "hash_algorithm": "SHA3-512",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "type": "FILE_INGEST",
+    "status": "OK"
+  },
+  {
+    "id": "c977c3d3-b458-49b4-ac5a-52858bcd8dc0",
+    "timestamp": "2026-01-29T01:35:17.195801Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO10"
+  },
+  {
+    "id": "9",
+    "file": "c977c3d3-b458-49b4-ac5a-52858bcd8dc0_Freelancer_Dispute_Evidence_Package.pdf",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO10",
+    "timestamp": "2026-01-29T01:35:17.439658Z",
+    "hash_algorithm": "SHA3-512",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "type": "FILE_INGEST",
+    "status": "OK"
+  },
+  {
+    "id": "d6a45dd2-b84f-475b-b89c-08fe63f5a692",
+    "timestamp": "2026-01-29T01:35:53.967295Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO12"
+  },
+  {
+    "id": "11",
+    "file": "d6a45dd2-b84f-475b-b89c-08fe63f5a692_Freelancer_Dispute_Evidence_Package.pdf",
+    "declared_by": "Freelancer",
+    "purpose": "EJEMPLO12",
+    "timestamp": "2026-01-29T01:35:54.255614Z",
+    "hash_algorithm": "SHA3-512",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "type": "FILE_INGEST",
+    "status": "OK"
+  },
+  {
+    "id": "12",
+    "timestamp": "2026-01-29T01:58:30.289307Z",
+    "type": "FILE_INGEST",
+    "file": "63b5b48d-345b-481b-8c66-13ec069f2233_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "rtr4"
+  },
+  {
+    "id": "13",
+    "timestamp": "2026-01-29T02:11:47.275114Z",
+    "type": "FILE_INGEST",
+    "file": "b259cd01-7585-4fb0-84f1-1fbbd1a1e513_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "rtr4"
+  },
+  {
+    "id": "14",
+    "timestamp": "2026-01-29T02:25:41.847806Z",
+    "type": "FILE_INGEST",
+    "file": "7f109592-7d96-42db-8ae7-b8ed58262ea7_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "rtr4"
+  },
+  {
+    "id": "15",
+    "timestamp": "2026-01-29T02:26:45.298275Z",
+    "type": "FILE_INGEST",
+    "file": "cf8ee827-ae6b-4fac-b6ef-c85c520db6f7_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "rtr4"
+  },
+  {
+    "id": "16",
+    "timestamp": "2026-01-29T02:27:24.839199Z",
+    "type": "FILE_INGEST",
+    "file": "6d59e4dd-3381-4bf2-9d3c-09a3472c669d_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "des45"
+  },
+  {
+    "id": "17",
+    "timestamp": "2026-01-29T02:31:46.476713Z",
+    "type": "FILE_INGEST",
+    "file": "9146387c-35df-41d2-bd5d-2c3210e9b90d_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "delf45"
+  },
+  {
+    "id": "18",
+    "timestamp": "2026-01-29T03:23:37.591100Z",
+    "type": "FILE_INGEST",
+    "file": "8062c89e-ee1a-482a-b9e5-bd0de90190fc_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "delf45"
+  },
+  {
+    "id": "19",
+    "timestamp": "2026-01-29T03:24:07.939711Z",
+    "type": "FILE_INGEST",
+    "file": "18dd58a7-7e92-479f-950e-9b71042489b9_audit_16.pdf",
+    "hash": "6a2c63ea13df93f5541b2e0e0f2a35df2b63f1a2fa6a70a015c42d66de3f2a4711d6f34a68d0d06127909faee9bc802229735b5f39e13b5860b31c31efe2a6aa",
+    "status": "OK",
+    "declared_by": "Freelancer",
+    "purpose": "glps456"
+  },
+  {
+    "id": "20",
+    "timestamp": "2026-01-29T03:25:17.971395Z",
+    "type": "FILE_INGEST",
+    "file": "03fd4b07-039a-4a7f-89ea-0871024fd8df_Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "dfe456"
+  },
+  {
+    "id": "82bf1303-9da4-434d-bea4-5efa8dbf7ee8",
+    "timestamp": "2026-01-29T03:59:38.638191Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf",
+    "hash": "3ef731cc3e7dea741d05fc88001a83de4744863d6e7e08e74848598661d8d3b430fe788474f70f0206e374cca234f1b53b5d751b3d2dea3288026d00f0494c60",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "glso342"
+  },
+  {
+    "id": "da641686-d73d-4240-8a9e-a9be046099c3",
+    "timestamp": "2026-01-30T01:15:40.591892Z",
+    "type": "FILE_INGEST",
+    "file": "BASE_DE_DATOS_TITAN.xlsx",
+    "hash": "556916a18168dc8c29a86e8fb594f9c1a956a29f42008f3ed8e3086c868227f55725ead93cb9da9e2010283b71146895ebca68a400511ec1f99a779488a1d404",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "db"
+  },
+  {
+    "id": "787b091f-e940-4f54-9b23-514fdeb38af4",
+    "timestamp": "2026-01-30T02:04:21.192878Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf",
+    "hash": "7a7b8c6a397ac12a7cb83d1908f33e033e11f79b4d3b96fa5e0b9b29cd65310355cea6556744e6cc06a5fdd8df1e90fd92762baa53d93a697fb8bc7c8b02fbb0",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "ejemplo"
+  },
+  {
+    "id": "da8d78e7-4374-444b-82a2-6a06ec571ec4",
+    "timestamp": "2026-01-31T03:34:09.985990Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf",
+    "hash": "7a7b8c6a397ac12a7cb83d1908f33e033e11f79b4d3b96fa5e0b9b29cd65310355cea6556744e6cc06a5fdd8df1e90fd92762baa53d93a697fb8bc7c8b02fbb0",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "ejemplo"
+  },
+  {
+    "id": "25e5735f-8078-42fb-84e9-c783fb1998e2",
+    "timestamp": "2026-02-01T04:22:17.984770Z",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf",
+    "hash": "7a7b8c6a397ac12a7cb83d1908f33e033e11f79b4d3b96fa5e0b9b29cd65310355cea6556744e6cc06a5fdd8df1e90fd92762baa53d93a697fb8bc7c8b02fbb0",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "ejemplo r"
+  },
+  {
+    "id": "3f5d49b7-1541-4be9-a8a3-5d8e7ea7a7d6",
+    "timestamp": "2026-02-02T02:34:14.890573Z",
+    "operator": "AETERNA",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf",
+    "hash": "6721441d721e423fcff4c923cd01cf486aa9e23a188e1245b80f77a2bc189c9cb8a787bfc15fdebf68f67233be1be0c8f542e49c2ccb7d5f43f5c77c6651b6ce",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "definitivo"
+  },
+  {
+    "id": "e776ff65-977a-4b89-b50b-c523a8c0961a",
+    "timestamp": "2026-02-02T03:24:42.112841Z",
+    "operator": "AETERNA",
+    "type": "FILE_INGEST",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf",
+    "hash": "6721441d721e423fcff4c923cd01cf486aa9e23a188e1245b80f77a2bc189c9cb8a787bfc15fdebf68f67233be1be0c8f542e49c2ccb7d5f43f5c77c6651b6ce",
+    "status": "OK",
+    "declared_by": "Client",
+    "purpose": "final"
+  },
+  {
+    "id": "19461397-0059-45ee-afae-cd3b5ca9c4e5",
+    "timestamp": "2026-02-02T04:03:43.838568Z",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T02-34-14-890573Z_6721441d.pdf",
+    "hash": "149e1fff3965483505cd75ef64b08931bc87e525ec0813d0a6ec4ee974947a49814bc331b35b8014db7933d25615224b810107bac8e1721f7514e62674f991b5",
+    "declared_by": "Freelancer",
+    "purpose": "real",
+    "status": "OK"
+  },
+  {
+    "id": "aba3eb8f-190b-4e93-a304-313ecfc317af",
+    "timestamp": "2026-02-02T05:12:46.537673Z",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf",
+    "hash": "6721441d721e423fcff4c923cd01cf486aa9e23a188e1245b80f77a2bc189c9cb8a787bfc15fdebf68f67233be1be0c8f542e49c2ccb7d5f43f5c77c6651b6ce",
+    "declared_by": "Client",
+    "purpose": "siguiente",
+    "paid": false
+  },
+  {
+    "id": "873c8188-1e0d-49f1-83e8-ab2370f68a18",
+    "timestamp": "2026-02-02T05:47:39.118975Z",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T03-24-42-112841Z_6721441d.pdf",
+    "hash": "20ff48b94ce4a47ca35f75a2d5fe3b527a5a3f9bd6e504724077f8d428e5c91815aa59981deabd6a65ea2fa3f08ebd41c4d8ffbddbab9c0ab7546cd2158adf9f",
+    "declared_by": "Freelancer",
+    "purpose": "listo",
+    "paid": false
+  },
+  {
+    "id": "2b45e4df-321e-4f56-a5bf-96a35ced3c90",
+    "timestamp": "2026-02-02T05:51:04.313954Z",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T03-24-42-112841Z_6721441d.pdf",
+    "hash": "20ff48b94ce4a47ca35f75a2d5fe3b527a5a3f9bd6e504724077f8d428e5c91815aa59981deabd6a65ea2fa3f08ebd41c4d8ffbddbab9c0ab7546cd2158adf9f",
+    "declared_by": "Freelancer",
+    "purpose": "cualquiera",
+    "paid": false
+  },
+  {
+    "id": "913a7ca1-2fec-48f2-8bdf-542bc02477b8",
+    "timestamp": "2026-02-02T06:22:12.472927Z",
+    "file": "AETERNA_Certificate_Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T02-34-14-890573Z_6721441d.pdf.pdf",
+    "hash": "68c40ff6d0fdaf7833df4aa1969629554627076361750452c6d1e79ca61ce866fe9f29e6d83ec6868d51d45e01eca5e4ddc18929927cc5f318a6176bf9ff4836",
+    "declared_by": "Freelancer",
+    "purpose": "no va mas",
+    "paid": false
+  },
+  {
+    "id": "f4f22055-f247-4909-9f01-5990ed204240",
+    "timestamp": "2026-02-02T06:48:32.304699Z",
+    "file": "AETERNA_Certificate_Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T02-34-14-890573Z_6721441d.pdf.pdf",
+    "hash": "68c40ff6d0fdaf7833df4aa1969629554627076361750452c6d1e79ca61ce866fe9f29e6d83ec6868d51d45e01eca5e4ddc18929927cc5f318a6176bf9ff4836",
+    "declared_by": "Freelancer",
+    "purpose": "no va mas",
+    "paid": false
+  },
+  {
+    "id": "fd90804b-6379-4833-9836-6fa95bef4d06",
+    "timestamp": "2026-02-02T06:49:06.812352Z",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T03-24-42-112841Z_6721441d.pdf",
+    "hash": "20ff48b94ce4a47ca35f75a2d5fe3b527a5a3f9bd6e504724077f8d428e5c91815aa59981deabd6a65ea2fa3f08ebd41c4d8ffbddbab9c0ab7546cd2158adf9f",
+    "declared_by": "Freelancer",
+    "purpose": "fin fin",
+    "paid": false
+  },
+  {
+    "id": "c145964e-4899-4f96-924b-3a714876337a",
+    "timestamp": "2026-02-02T07:09:03.865107Z",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T03-24-42-112841Z_6721441d.pdf",
+    "hash": "20ff48b94ce4a47ca35f75a2d5fe3b527a5a3f9bd6e504724077f8d428e5c91815aa59981deabd6a65ea2fa3f08ebd41c4d8ffbddbab9c0ab7546cd2158adf9f",
+    "declared_by": "Freelancer",
+    "purpose": "nanai",
+    "paid": false
+  },
+  {
+    "id": "8ee26d84-febc-406f-b501-c977d393b30f",
+    "timestamp": "2026-02-02T16:40:52.053052Z",
+    "file": "Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T02-34-14-890573Z_6721441d.pdf",
+    "hash": "149e1fff3965483505cd75ef64b08931bc87e525ec0813d0a6ec4ee974947a49814bc331b35b8014db7933d25615224b810107bac8e1721f7514e62674f991b5",
+    "declared_by": "Freelancer",
+    "purpose": "listo",
+    "paid": true
+  },
+  {
+    "id": "01662d50-08ea-41a7-8389-9750c735f12f",
+    "timestamp": "2026-02-02T17:13:39.386427Z",
+    "file": "Certificado_AETERNA_Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T02-34-14-890573Z_6721441d.pdf (2).pdf",
+    "hash": "db1739a52b2a329ed0a9fa61f2f2b0bb8bdba4f3814af937e173572c8e7bc6b8d6b133fee223982ab1ac594a555a63ead432933788786d8600c234f6933811e0",
+    "declared_by": "Freelancer",
+    "purpose": "prueba1",
+    "paid": true
+  },
+  {
+    "id": "fb4dd6c7-7341-4521-b8a0-9d3769088177",
+    "timestamp": "2026-02-02T17:22:13.657256Z",
+    "file": "Certificado_AETERNA_Freelancer_Dispute_Evidence_Package.pdf_2026-01-29T03-59-38-638191Z_3ef731cc.pdf_2026-02-01T04-22-17-984770Z_7a7b8c6a.pdf_2026-02-02T02-34-14-890573Z_6721441d.pdf (2).pdf",
+    "hash": "db1739a52b2a329ed0a9fa61f2f2b0bb8bdba4f3814af937e173572c8e7bc6b8d6b133fee223982ab1ac594a555a63ead432933788786d8600c234f6933811e0",
+    "declared_by": "Freelancer",
+    "purpose": "prueba 2",
+    "paid": true
+  }
+]
