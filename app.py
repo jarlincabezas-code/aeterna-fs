@@ -17,7 +17,7 @@ import os
 # Amount in cents (900 = $9.00 USD)
 stripe.api_key = os.getenv("STRIPE_SECRET_KEY")
 PRICE_AMOUNT = 900 
-# Local server URL
+# Local server URLs
 PUBLIC_URL = "http://localhost:8000"
 
 app = FastAPI(title="AETERNA-FS")
