@@ -7,11 +7,14 @@ from fastapi.responses import RedirectResponse, FileResponse, HTMLResponse
 from reports.pdf_generator import generate_audit_report
 from pathlib import Path
 from datetime import datetime
+from dotenv import load_dotenv
 import uuid
 import hashlib
 import json
 import stripe
 import os
+
+load_dotenv()
 
 
 # Amount in cents (900 = $9.00 USD)

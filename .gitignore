@@ -1,13 +1,15 @@
-# Entornos virtuales
-.venv/
-venv/
+# Environment
+.env
+
+# Runtime data
+vault/events.json
+vault/reports/
+vault/ingest/
+
+# Tests / local tools
+test_*.py
 
 # Python
 __pycache__/
 *.pyc
-
-# Bases de datos
-*.db
-
-# Logs
-*.log
+.venv/
