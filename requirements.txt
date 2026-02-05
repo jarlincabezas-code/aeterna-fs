@@ -3,3 +3,5 @@ uvicorn
 reportlab
 python-multipart
 stripe
+sqlalchemy
+python-dotenv
