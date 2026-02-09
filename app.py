@@ -220,7 +220,11 @@ def paid(event_id: str, session_id: Optional[str] = None):
         return HTMLResponse("Payment not completed", status_code=402)
 
     mark_paid(event_id, session.payment_intent)
-    return RedirectResponse(f"/download/{event_id}", status_code=302)
+    return RedirectResponse(
+    f"{PUBLIC_URL}/download/{event_id}",
+    status_code=302
+)
+
 
 @app.get("/download/{event_id}")
 def download(event_id: str):
