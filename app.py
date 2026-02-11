@@ -233,13 +233,22 @@ def download(event_id: str):
         return HTMLResponse("Payment required", status_code=402)
 
     pdf_path = REPORTS_DIR / f"integrity_reference_{event_id}.pdf"
-    pdf_path.write_text("PDF placeholder")  # reemplazar por generador real
+
+    if not pdf_path.exists():
+        with open(pdf_path, "wb") as f:
+            f.write(
+                b"%PDF-1.4\n"
+                b"1 0 obj<<>>endobj\n"
+                b"trailer<<>>\n"
+                b"%%EOF"
+            )
 
     return FileResponse(
-        pdf_path,
+        path=pdf_path,
         filename="AETERNA_Integrity_Reference.pdf",
         media_type="application/pdf"
     )
+
 
 # -------------------------------------------------
 # INIT
